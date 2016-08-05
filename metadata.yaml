@@ -1,0 +1,29 @@
+_repo: Expositions-of-Holy-Scripture--13-Deuteronomy-Joshua-Judges-Ruth-and-First-Book-of-Samuel-Seco__8068
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maclaren, Alexander
+    alias: McLaren, Alexander
+    birthdate: 1826
+    deathdate: 1910
+    gutenberg_agent_id: '2330'
+    url: http://www.gutenberg.org/2009/agents/2330
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Maclaren
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Heptateuch -- Commentaries'
+- !lcc 'BS'
+- !lcsh 'Bible. Historical Books -- Commentaries'
+- GITenberg
+title: "Expositions of Holy Scripture\r\nDeuteronomy, Joshua, Judges, Ruth, and First\
+  \ Book of Samuel, Second Samuel, First Kings, and Second Kings chapters I to VII"
+url: http://www.gutenberg.org/ebooks/8068
